@@ -6,4 +6,4 @@ export default function ({ type }) {
   } else {
     return(<div className="spinner-border text-light text-center"></div>)
   }
-}
+}  

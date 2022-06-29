@@ -8,7 +8,7 @@ import MyTransactions from './MyTransactions'
 import PriceChart from './PriceChart'
 import Balance from './Balance'
 import NewOrder from './NewOrder'
-
+  
 class Content extends Component {
   componentWillMount() {
     this.loadBlockchainData(this.props)
