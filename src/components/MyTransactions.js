@@ -80,7 +80,7 @@ class MyTransactions extends Component {
                 <thead>
                   <tr>
                     <th>Amount</th>
-                    <th>DAPP/ETH</th>
+                    <th>IMB/ETH</th>
                     <th>Cancel</th>
                   </tr>
                 </thead>
